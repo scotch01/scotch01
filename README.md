@@ -2,6 +2,7 @@
 <h3 align="center">Interested in Data Science and Web Development</h3>
 
 * 🌍  I'm based in Indonesia
+*  🌱 I’m currently learning **Laravel** and also about **Data Mining** for my bachelor's degree
 * ✉️  You can contact me at [arthuriascarlett@gmail.com](mailto:arthuriascarlett@gmail.com)
 
 ### Skills
