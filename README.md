@@ -1,52 +1,28 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ansharulhaq
+====================================================================================================================================
 
-###
+Web Developer
+-------------
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+A Passionate HTML Developer
 
-###
+*   ✉️  You can contact me at [ansharulhaq1412@gmail.com](mailto:ansharulhaq1412@gmail.com)
+*   🧠  I'm currently learning Laravel and Vue
+<p align="left">
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
+                  </p>
+                  
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+### Socials
+                
+<p align="left"> <a href="https://www.github.com/scotch01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/ansharulhaq3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-###
+### Badges
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<b>My GitHub Stats</b>
 
-###
+<a href="http://www.github.com/scotch01"><img src="https://github-readme-stats.vercel.app/api?username=scotch01&show_icons=true&hide=issues,&count_private=true&title_color=ffffff&text_color=6366f1&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="scotch01's GitHub stats" /></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<a href="http://www.github.com/scotch01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=scotch01&stroke=6366f1&background=181824&ring=ffffff&fire=ffffff&currStreakNum=6366f1&currStreakLabel=ffffff&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
-###
+<a href="https://github.com/scotch01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scotch01&langs_count=10&title_color=ffffff&text_color=6366f1&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
