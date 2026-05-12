@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm Ansharulhaq A</h1>
 <h3 align="center">A passionate HTML developer</h3>
 
-- 🔭 I’m currently working on **private website poject at BPS Kota Pariaman**
+# 💫 About Me:
+🔭 I’m currently working on private website poject at BPS Kota Pariaman<br>🌱 I’m currently learning Laravel and javascript
 
-- 🌱 I’m currently learning **Laravel and javascript**
 
-- 📫 How to reach me: **arthuriascarlett@gmail.com**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ansharulhaq3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansharulhaq3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansharulhaq1412@gmail.com) 
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p> -->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=flat&logo=alpinedotjs&logoColor=%238BC0D0) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=scotch01&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=scotch01&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=scotch01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p> -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scotch01&show_icons=true&locale=en&layout=compact" alt="scotch01" /></p>
+---
+[![](https://komarev.com/ghpvc/?username=scotch01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scotch01&show_icons=true&locale=en" alt="scotch01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scotch01&" alt="scotch01" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
