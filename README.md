@@ -2,7 +2,7 @@
 <h3 align="center">A passionate HTML developer</h3>
 
 # 💫 About Me:
-🔭 Currently working on private website poject at BPS Kota Pariaman as intern and hustle to learn Laravel and javascript
+🔭 Currently working on private website poject at BPS Kota Pariaman as intern and hustle to learn something new
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ansharulhaq3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansharulhaq3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansharulhaq1412@gmail.com) 
